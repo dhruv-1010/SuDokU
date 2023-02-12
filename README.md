@@ -1,6 +1,6 @@
 # Sudoku Solver using Recursion and Backtracking
 **javascript sudoku solver** 
-In this Project we are going to implement a simple sudoku solver backtracking Algortihm with vanilla Javascript,HTML and BootStrap 5 CSS Library.
+In this Project we are going to implement a simple sudoku solver backtracking Algortihm with vanilla Javascript,HTML and BootStrap 5 CSS Library with Node Js as backend server.
 <br>
 <i> Sudoku is a popular game from French origin it's a logic-based, combinatorial number-placement puzzle. In classic Sudoku, the objective is to fill a 9 × 9 grid with digits so that each column, each row, and each of the nine 3 × 3 subgrids that compose the grid contain all of the digits from 1 to 9.</i>
 
